@@ -1,0 +1,42 @@
+Sudo Bot — Privacy Policy
+
+Last updated: June 13, 2026
+
+Please Note: This Privacy Policy applies solely to Sudo Bot. It does not cover any other bots, products, games, services, or Discord servers. We're just a bot, we promise.
+1. The Short Version
+
+We don't want your data. We don't collect your data. We're a moderation bot, not a tech giant.
+2. What We See
+
+When you use a command like ?sudo ban @user, Sudo Bot briefly reads that message to understand what you're asking it to do. That's it. We're not logging it, storing it, or reading your DMs at 3am.
+3. What We Actually Store
+
+Honestly? Not much.
+
+    Warnings (?sudo warn) are stored temporarily in memory. If the bot restarts, they're gone. No database, no permanent record.
+    Mod logs are sent directly to your server's own log channel. We don't keep a copy on our end.
+    Your user ID is used in the moment to process commands and then immediately forgotten. We have the memory of a goldfish.
+
+4. What We Don't Do
+
+We will never:
+
+    Sell your data (to anyone, ever, for any reason)
+    Share your information with third parties
+    Read messages that aren't commands directed at the bot
+    Store personal information like emails, IP addresses, or payment details — we don't even have a way to collect those
+
+5. Third Parties
+
+Sudo Bot runs on Discord's platform, which has its own Privacy Policy you can read at discord.com/privacy. We don't control what Discord does — that's between you and them.
+6. Children's Privacy
+
+Sudo Bot does not knowingly interact with anyone under the age of 13, in line with Discord's own minimum age requirements. If you're under 13, Discord's ToS already has something to say to you.
+7. Changes to This Policy
+
+If we update this Privacy Policy, the "Last updated" date at the top will change. We won't send you a 47-page email about it.
+8. Contact
+
+Questions? Concerns? Found a bug? Reach out through the bot's home server or GitHub page. We're real people, we don't bite.
+
+Sudo Bot — your data is safe with us, mostly because we never wanted it in the first place. 🔒
