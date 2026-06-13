@@ -1,0 +1,31 @@
+Sudo Bot — Terms of Service
+Last updated: June 13, 2026
+Please Note: This Terms of Service applies solely to Sudo Bot. It does not cover any other bots, products, games, services, or Discord servers. We're just a bot, not a corporation.
+
+1. Who We Are
+Sudo Bot is a Discord moderation bot. It bans people, kicks troublemakers, and keeps your server from descending into chaos. That's it. We're not collecting your data to sell you sneakers.
+2. Who Can Use This Bot
+By inviting Sudo Bot to your server, you confirm that:
+
+You have permission to add bots to that server
+You won't use it to harass, abuse, or target individuals unfairly
+You understand that with great power (?sudo ban) comes great responsibility
+
+3. What We Do With Your Data
+Sudo Bot processes message content only to respond to commands. We don't store your messages, sell your data, or care what you had for breakfast. Any moderation logs stay within your own server.
+4. Acceptable Use
+You agree not to use Sudo Bot to:
+
+Ban or kick members maliciously or without cause
+Harass or target individuals based on race, gender, religion, or any other characteristic
+Attempt to exploit or break the bot (though if you find a bug, please tell us)
+Do anything that violates Discord's own Terms of Service
+
+5. The Bot Is Provided "As Is"
+Sudo Bot is a passion project, not a Fortune 500 product. It may occasionally go offline, throw an error, or have a bad day. We make no guarantees of 100% uptime. If the bot bans the wrong person, that's on the moderator who ran the command — not us.
+6. Changes to These Terms
+We may update this TOS occasionally. When we do, the "Last updated" date at the top will change. Continuing to use the bot means you're cool with whatever changed.
+7. Contact
+Got a problem, a question, or just want to say hi? Reach out through the bot's home server or GitHub page.
+
+Sudo Bot — keeping servers orderly, one ban at a time. 🔨
